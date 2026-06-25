@@ -86,7 +86,6 @@ Testing Performed:
  ->Technologies Used:
 
 . Cisco Packet Tracer
-. Cisco IOS
 . VLANs
 . OSPF
 . DHCP
